@@ -1,0 +1,11 @@
+Forward-Chaining Results:
+Accuracy: 1.00
+Precision: 1.00
+Recall: 1.00
+F1 Score: 1.00
+
+Backward-Chaining Results:
+Accuracy: 0.80
+Precision: 1.00
+Recall: 0.67
+F1 Score: 0.80
