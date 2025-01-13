@@ -1,0 +1,19 @@
+Comparison of Models: Regression vs Classification
+
+Regression Model Results:
+Mean Squared Error (MSE): 9.416666666666666
+Root Mean Squared Error (RMSE): 3.068658773253661
+R-squared: -0.1452702702702704
+Mean Absolute Error (MAE): 2.6111111111111107
+
+Classification Model Results:
+Accuracy: 0.6666666666666666
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00         0
+           1       1.00      0.67      0.80         3
+
+    accuracy                           0.67         3
+   macro avg       0.50      0.33      0.40         3
+weighted avg       1.00      0.67      0.80         3
